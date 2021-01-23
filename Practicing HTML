@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<h1>Enter Problem Here</h1>
+	
+	<form action="/action_page.php">
+  		<input type="text" id="problem" name="problem"><br>
+  		<br>
+  		<input type="submit" name="Submit1" value="Enter">
+	</form>
+</body>
+</html>
